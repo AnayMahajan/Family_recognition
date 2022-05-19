@@ -1,0 +1,9 @@
+#body{
+    background-color: lightgrey;
+}
+#camera{
+    border-style: dashed;
+    width: 350px;
+    height: 300px;
+    border-color: black;
+}
